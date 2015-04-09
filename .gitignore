@@ -1,3 +1,5 @@
-.pyc
+csvdemo/*.pyc
+sample/*.pyc
 .pydevproject
 .project
+suma
