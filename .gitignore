@@ -1,3 +1,5 @@
-*.pyc
-*.pydevproject
-*.project
+settings.pyc
+urls.pyc
+wsgi.pyc
+.pydevproject
+.project
